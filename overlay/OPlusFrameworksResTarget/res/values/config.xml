@@ -234,11 +234,12 @@
          config_mainBuiltInDisplayCutout
          -->
     <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
-        M -85,0
-        V 67.9
-        H 85
-        V 0
+        M 480,0
+        h 120
+        v 92
+        h -120
         Z
+        @left
     </string>
 
     <!-- Whether the display cutout region of the main built-in display should be forced to
