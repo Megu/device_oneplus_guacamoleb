@@ -46,6 +46,13 @@
         <item>10</item>
     </integer-array>
 
+    <integer-array name="config_defaultNotificationVibePattern">
+        <item>0</item>
+        <item>24</item>
+        <item>156</item>
+        <item>20</item>
+    </integer-array>
+
     <!-- Indicate available ColorDisplayManager.COLOR_MODE_xxx. -->
     <integer-array name="config_availableColorModes">
         <item>0</item> <!-- COLOR_MODE_NATURAL -->
