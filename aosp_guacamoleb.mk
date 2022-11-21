@@ -18,7 +18,7 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 PRODUCT_NAME := aosp_guacamoleb
 PRODUCT_DEVICE := guacamoleb
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := GM1905
+PRODUCT_MODEL := GM1900
 PRODUCT_MANUFACTURER := OnePlus
 CUSTOM_DEVICE := OnePlus7
 
